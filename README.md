@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
-<div align="center"> <img src="https://github.com/adityasharma-ach/adityasharma-ach/edit/main/aditya-banner"></div>
+<div align="center"> <img src="https://github.com/adityasharma-ach/adityasharma-ach/edit/main/adi-banner.png"></div>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasharma-ach&label=Profile%20views&color=0e75b6&style=flat" alt="adityasharma-ach" /> </p>
