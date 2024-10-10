@@ -1,4 +1,4 @@
-![logo](https://github.com/adityasharma-ach/adityasharma-ach/blob/main/banner.png)
+![logo](https://github.com/adityasharma-ach/adityasharma-ach/blob/main/banner)
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
