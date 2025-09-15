@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://adityasharma-ach.github.io/Aditya-Portfolio/]([https://www.adityaportfolio.rishikeshmagic.com/])
+- 👨‍💻 All of my projects are available at [https://adityasharma-ach.github.io/Aditya-Portfolio/](https://www.adityaportfolio.rishikeshmagic.com/)
 
 - 📫 How to reach me **adityasharmarut7@gmail.com**
 
